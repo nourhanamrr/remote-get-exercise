@@ -8,5 +8,6 @@ int x,y;
 cin >> x >> y;
 cout <<" the addition result =";
 cout << x + y;
+  court<<endl;
 return 0;
 }
